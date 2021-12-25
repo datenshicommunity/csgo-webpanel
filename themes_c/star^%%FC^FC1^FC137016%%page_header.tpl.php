@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.31, created on 2021-12-25 15:03:20
+<?php /* Smarty version 2.6.31, created on 2021-12-25 15:15:02
          compiled from page_header.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('modifier', 'replace', 'page_header.tpl', 27, false),)), $this); ?>
@@ -9,8 +9,7 @@ smarty_core_load_plugins(array('plugins' => array(array('modifier', 'replace', '
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<title><?php if ($this->_tpl_vars['header_title'] != ""): ?><?php echo $this->_tpl_vars['header_title']; ?>
 <?php else: ?>SourceBans<?php endif; ?></title>
-		<link rel="Shortcut Icon" href="themes/<?php echo $this->_tpl_vars['theme_name']; ?>
-/images/favicon.ico" />
+		<link rel="Shortcut Icon" href="https://datenshi.pw/assets/img/icons/favicon.ico" />
 		<link rel="stylesheet" href="themes/<?php echo $this->_tpl_vars['theme_name']; ?>
 /css/materialdesign/css/materialdesignicons.min.css">
 		<script type="text/javascript" src="./scripts/sourcebans.js"></script>
@@ -159,4 +158,4 @@ smarty_core_load_plugins(array('plugins' => array(array('modifier', 'replace', '
 				</button>
 				<?php endif; ?>
 			</div>
-		</li>
+		</li>

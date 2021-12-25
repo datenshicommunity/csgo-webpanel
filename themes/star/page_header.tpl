@@ -4,7 +4,7 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<title>{if $header_title != ""}{$header_title}{else}SourceBans{/if}</title>
-		<link rel="Shortcut Icon" href="themes/{$theme_name}/images/favicon.ico" />
+		<link rel="Shortcut Icon" href="https://datenshi.pw/assets/img/icons/favicon.ico" />
 		<link rel="stylesheet" href="themes/{$theme_name}/css/materialdesign/css/materialdesignicons.min.css">
 		<script type="text/javascript" src="./scripts/sourcebans.js"></script>
 		<link href="themes/{$theme_name}/css/style.css" rel="stylesheet" type="text/css" />
